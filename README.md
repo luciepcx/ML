@@ -14,7 +14,9 @@ Simple codes are the following:
 * Tree-based Methods
 * KNN
 * KNN & Random Forest
-* ANN 
+* ANN
+* Feature Selection
+* Feature Selection & PCA
 
 Complex codes are designed with title ML Project:
 * ML Project- Regression
